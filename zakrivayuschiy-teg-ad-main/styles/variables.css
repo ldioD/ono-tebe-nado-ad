@@ -1,0 +1,19 @@
+:root {
+  --font-main: "Inter", Arial, sans-serif;
+  --font-accent: "PressStart2P", fantasy;
+  --font-weight-text: 465;
+  --font-weight-title: 715;
+  --bg-color: #d3d3d3;
+  --bg-pattern-color: rgb(0 0 0 / 0.06);
+  --bg-gradient-top: #e7e7e7;
+  --bg-gradient-bottom: #1a1a1a;
+  --content-width: clamp(320px, 100%, 700px);
+  --main-color: #000;
+  --page-padding: clamp(100px, 8vw, 128px);
+  --card-spacing: 50px;
+  --border: 2px solid var(--main-color);
+  --heart-contour: #000;
+  --heart-core: transparent;
+  --heart-main-body: transparent;
+  --heart-sparks: #f00;
+}
